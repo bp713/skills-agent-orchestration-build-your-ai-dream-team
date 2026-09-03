@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Hub",
+      "owner": "Maya Chen",
+      "status": "In Progress",
+      "recentActivity": "Navigation review completed yesterday",
+      "priority": "High",
+      "summary": "Give new contributors one calm place to find setup notes, open issues, and their first useful task."
+    },
+    {
+      "name": "Release Notes Refresh",
+      "owner": "Jon Bell",
+      "status": "On Track",
+      "recentActivity": "Drafted the next release story on Monday",
+      "priority": "Medium",
+      "summary": "Turn shipped work into concise, human release notes that help users understand what changed."
+    },
+    {
+      "name": "Design Tokens",
+      "owner": "Aisha Rahman",
+      "status": "At Risk",
+      "recentActivity": "Contrast audit flagged three component states",
+      "priority": "High",
+      "summary": "Create a shared visual vocabulary so product teams can build accessible interfaces with less rework."
+    },
+    {
+      "name": "Local Dev Toolkit",
+      "owner": "Sam Rivera",
+      "status": "Planning",
+      "recentActivity": "Collected setup pain points from six teams",
+      "priority": "Low",
+      "summary": "Make the first fifteen minutes of local development predictable, documented, and pleasantly short."
+    },
+    {
+      "name": "Search Quality",
+      "owner": "Priya Nair",
+      "status": "In Progress",
+      "recentActivity": "Evaluated relevance on the spring benchmark set",
+      "priority": "Medium",
+      "summary": "Help people find the right internal docs faster by pairing better ranking with clearer result context."
+    },
+    {
+      "name": "Accessibility Office Hours",
+      "owner": "Leo Martins",
+      "status": "On Track",
+      "recentActivity": "Booked two sessions for the coming sprint",
+      "priority": "Low",
+      "summary": "Build practical accessibility confidence through small, repeatable reviews alongside the teams doing the work."
+    }
+  ]
+}
